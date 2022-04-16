@@ -1,0 +1,9 @@
+  Vec3 dir(2, 3, 1);
+
+  Vec3 start(1, 1, 0);
+
+  Ray ray(start, dir);
+
+  float t = 0.2;
+
+  Vec3 ptAt=ray.currentPosition(t);

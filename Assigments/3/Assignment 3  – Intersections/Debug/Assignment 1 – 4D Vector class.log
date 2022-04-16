@@ -1,0 +1,3 @@
+﻿  Vec3.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Vec3.cpp(40,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Assignment 1 – 4D Vector class.vcxproj -> D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Debug\Assignment 1 – 4D Vector class.exe

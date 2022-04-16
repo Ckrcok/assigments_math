@@ -1,0 +1,66 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment 1 – 4D Vector class.vcxproj, Assignment 2 – 4D Vector class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Main.cpp(17,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Mat3.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(115,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(116,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(117,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(118,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(119,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(120,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(121,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(122,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(123,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(126,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(127,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(128,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(129,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(130,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(131,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(132,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(133,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Mat3.cpp(134,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Plane.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(13,6): error C2061: syntax error: identifier 'Vec3'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,7): error C3646: 'currentPosition': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,22): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,31): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,7): error C3646: 'GetDir': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,13): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,15): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,7): error C3646: 'GetStart': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,15): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,17): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Plane.cpp(39,15): error C2039: 'GetDir': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Plane.cpp(40,15): error C2039: 'GetStart': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Plane.cpp(42,16): error C2039: 'Dot': is not a member of 'MATH::Vec3'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Vector.h(45): message : see declaration of 'MATH::Vec3'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Plane.cpp(57,14): error C2039: 'currentPosition': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+  Ray.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(13,6): error C2061: syntax error: identifier 'Vec3'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,7): error C3646: 'currentPosition': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,22): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(14,31): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,7): error C3646: 'GetDir': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,13): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(15,15): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,7): error C3646: 'GetStart': unknown override specifier
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,15): error C2059: syntax error: '('
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(16,17): error C2238: unexpected token(s) preceding ';'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.cpp(16,1): error C2511: 'Ray::Ray(Vec3,Vec3)': overloaded member function not found in 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.cpp(26,11): error C2039: 'currentPosition': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.cpp(31,11): error C2039: 'GetDir': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.cpp(33,11): error C2039: 'GetStart': is not a member of 'Ray'
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Ray.h(8): message : see declaration of 'Ray'
+  Vec3.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Vec3.cpp(41,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vec4.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#2\Assignment 2 – Ray\Vec4.cpp(22,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  VMath.cpp
+  Generating Code...

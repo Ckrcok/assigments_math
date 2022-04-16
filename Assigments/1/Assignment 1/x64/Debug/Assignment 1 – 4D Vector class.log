@@ -1,0 +1,26 @@
+﻿  Main.cpp
+  Mat3.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(115,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(116,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(117,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(118,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(119,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(120,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(121,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(122,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(123,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(126,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(127,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(128,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(129,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(130,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(131,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(132,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(133,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Mat3.cpp(134,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vec3.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Vec3.cpp(40,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vec4.cpp
+D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\Vec4.cpp(22,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assignment 1 – 4D Vector class.vcxproj -> D:\Dor\Studies\Humber College\Second semester\Math\Assigments\#1\Assignment 1 – 4D Vector class\x64\Debug\Assignment 1 – 4D Vector class.exe
